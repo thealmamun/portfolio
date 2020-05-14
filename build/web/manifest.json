@@ -1,0 +1,23 @@
+{
+    "name": "mrhmamun",
+    "short_name": "mrhmamun",
+    "start_url": ".",
+    "display": "minimal-ui",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "my portfolio project",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/mamun.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "icons/mamun.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
+    ]
+}
