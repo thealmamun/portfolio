@@ -1,6 +1,6 @@
 import 'package:avatar_glow/avatar_glow.dart';
 import 'package:flutter/material.dart';
-import 'package:mrhmamun/frontent/splash_screen.dart';
+import 'package:mrhmamun/frontend/screens/splash_screen.dart';
 
 void main() {
   runApp(MyApp());
